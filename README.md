@@ -41,19 +41,20 @@ Represents a node in the linked list where each node contains:
 ## How to Run
 
 1. Clone or download the source code from the repository.
-'''bash
-wget -O main.c https://raw.githubusercontent.com/Hassan-Darwish/Student-Management-System/main/main.c
+ ```bash
+wget -O main.c https://raw.githubusercontent.com/Hassan-Darwish/Student-Management-System/main/main
+
 3. Compile the code using a C compiler.
 
 ## Example Usage
 What operation would you like to do:
-1)Add Students
-2)Display All Students
-3)Search for a Student by ID
-4)Update Student Information
-5)Delete a Student
-6)Calculate Average GPA
-7)Find Student with Highest GPA
-8)Exit
+- 1)Add Students
+- 2)Display All Students
+- 3)Search for a Student by ID
+- 4)Update Student Information
+- 5)Delete a Student
+- 6)Calculate Average GPA
+- 7)Find Student with Highest GPA
+- 8)Exit
 
->> you have to choose one option using its number
+you have to choose one option using its number
