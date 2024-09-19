@@ -47,14 +47,14 @@ Represents a node in the linked list where each node contains:
 ## Example Usage
 
 What operation would you like to do:
-- 1) Add Students
-- 2) Display All Students
-- 3) Search for a Student by ID
-- 4) Update Student Information
-- 5) Delete a Student
-- 6) Calculate Average GPA
-- 7) Find Student with Highest GPA
-- 8) Exit
+1) Add Students
+2) Display All Students
+3) Search for a Student by ID
+4) Update Student Information
+5) Delete a Student
+6) Calculate Average GPA
+7) Find Student with Highest GPA
+8) Exit
  
 You must choose one of the following options by its code
 
