@@ -42,7 +42,7 @@ Represents a node in the linked list where each node contains:
 
 1. Clone or download the source code from the repository.
    ```bash
-   wget -O main.c https://raw.githubusercontent.com/Hassan-Darwish/Student-Management-System/main/main.c
+   wget -O main.c https://raw.githubusercontent.com/Hassan-Darwish/Student-Management-System/main/main.c && wget -O header.h https://raw.githubusercontent.com/Hassan-Darwish/Student-Management-System/main/header.h
 
 ## Example Usage
 
